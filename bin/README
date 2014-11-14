@@ -1,0 +1,20 @@
+Additive Prime Test
+
+Running the application
+Compile all source files
+
+Classes included:
+
+AdditivePrimeTest.java - The main class that tests if a Secret is additive.
+
+usage: 
+AdditivePrimeTest.testAdditive(Secrete secret, int N);
+
+
+Tester.java - Used to test the additivity of a given Secret with a given N upper bound
+
+Assumptions Made in this implementation
+
+- Secrete class is given (Implementation unknown)
+- N is given
+- Secret encapsulates a method called secrete thus Secret.secret(n) is valid
